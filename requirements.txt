@@ -1,0 +1,7 @@
+ipykernel
+torch
+pandas 
+numpy 
+matplotlib
+causalnex
+scikit-learn
